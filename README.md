@@ -4,7 +4,9 @@ This is where I post notes on my studies, development progress, participation in
 Note📃: there aren't many events here yet, but I'll try to complete them soon.
 
 
-
+#### 15.09.2024
+Hooray!🎉🥳
+Yesterday was 660 days streak of my danish education on DuoLingo aaaand today is 50 day streak on TryHackMe🤓
 
 #### 12.09.2024
 * OTWA Office Hours - 7:00PM-8:30PM - we was talking about couple problems from OTWA and about looking for a job in the cyber industry.
