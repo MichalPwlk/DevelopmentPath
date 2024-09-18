@@ -5,7 +5,7 @@ Note📃: there aren't many events here yet, but I'll try to complete them soon.
 
 
 #### 18.09.2024
-Today, there was an event [DevSecOps Congress]<https://www.youtube.com/watch?v=03AoBi4bLQ0> all day long organized by [Bezpieczny Kod]<https://www.linkedin.com/company/bezpiecznykod/>.
+Today, there was an event [DevSecOps Congress](https://www.youtube.com/watch?v=03AoBi4bLQ0) all day long organized by [Bezpieczny Kod](https://www.linkedin.com/company/bezpiecznykod/).
 Topics covered:
 - Keynote: DevSecOps and career development in cybersecurity,
 - 12 principles of secure architecture,
