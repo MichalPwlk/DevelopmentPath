@@ -4,6 +4,18 @@ This is where I post notes on my studies, development progress, participation in
 Note📃: there aren't many events here yet, but I'll try to complete them soon.
 
 
+#### 18.09.2024
+Today, there was an event [DevSecOps Congress]<https://www.youtube.com/watch?v=03AoBi4bLQ0> all day long organized by [Bezpieczny Kod]<https://www.linkedin.com/company/bezpiecznykod/>.
+Topics covered:
+- Keynote: DevSecOps and career development in cybersecurity,
+- 12 principles of secure architecture,
+- Security management of open-source components,
+- Effective Secret Management in Kubernetes: Strategies and Tools with CSI Drivers,
+- The Dark Side of OSS,
+- How to secure pipelines with DevSecOps in Azure DevOps (topic has been changed, but will be added later),
+- Software, Security and the Butterfly Effect.
+It was a very interesting event, with many practical examples.
+
 #### 15.09.2024
 Hooray!🎉🥳
 Yesterday was 660 days streak of my danish education on DuoLingo aaaand today is 50 day streak on TryHackMe🤓
