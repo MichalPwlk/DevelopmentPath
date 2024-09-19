@@ -5,7 +5,7 @@ Note📃: there aren't many events here yet, but I'll try to complete them soon.
 
 
 #### 18.09.2024
-Today, there was an event [DevSecOps Congress](https://www.youtube.com/watch?v=03AoBi4bLQ0) all day long organized by [Bezpieczny Kod](https://www.linkedin.com/company/bezpiecznykod/).
+Today, there was an event [Kongres DevSecOps](https://www.youtube.com/watch?v=03AoBi4bLQ0) all day long organized by [Bezpieczny Kod](https://www.linkedin.com/company/bezpiecznykod/).
 Topics covered:
 - Keynote: DevSecOps and career development in cybersecurity,
 - 12 principles of secure architecture,
@@ -14,7 +14,9 @@ Topics covered:
 - The Dark Side of OSS,
 - How to secure pipelines with DevSecOps in Azure DevOps (topic has been changed, but will be added later),
 - Software, Security and the Butterfly Effect.
-It was a very interesting event, with many practical examples.
+It was a very interesting event, with many practical examples. But it was not all. 
+
+Later that day I also joined workshop called [Shakuj Kubernetesa](https://www.youtube.com/live/OGPYp9Nf-qI). Of course it was ethical hacking and most important in it was how to secure app better.
 
 #### 15.09.2024
 Hooray!🎉🥳
