@@ -4,6 +4,11 @@ This is where I post notes on my studies, development progress, participation in
 Note📃: there aren't many events here yet, but I'll try to complete them soon.
 
 
+#### 20.09.2024
+To take small steps forward I started the path of a Security Engineer on the THM platform:
+![chrome_b2aMIIhix0](https://github.com/user-attachments/assets/e956bd28-587d-419c-a45c-fac40097a7a8)
+
+
 #### 18.09.2024
 Today, there was an event [Kongres DevSecOps](https://www.youtube.com/watch?v=03AoBi4bLQ0) all day long organized by [Bezpieczny Kod](https://www.linkedin.com/company/bezpiecznykod/).
 Topics covered:
