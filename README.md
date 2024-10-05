@@ -1,7 +1,30 @@
 # Development Path 👣🚀📚
-This is where I post notes on my studies, development progress, participation in trainings and courses, etc. Something like a blog, if I may call it like that.😉
+This is where I post notes on my studies, development progress, participation in trainings and courses, etc. Something like a blog, if I may call it like that.😉 Note📃: there aren't many events here yet, but I'll try to complete them soon.
 
-Note📃: there aren't many events here yet, but I'll try to complete them soon.
+
+
+#### 05.09.2024
+Yes!🎉
+
+![ukonkursu](https://github.com/user-attachments/assets/98fe0b7d-df0d-4f51-a1f6-95ee19b4c438)
+OTWA course finished 🎉🤩 Now, all that's left is to write a security report.💪 
+
+
+Besides, I decided that I would make weekly summaries here - plus or minus 😉
+
+
+#### 30.09. - 04.10.2024
+Busy time.
+* Job interview.
+* OTWA course lessons
+* and another lessons
+* aaaannd another
+* aaaaaaaand another
+
+
+#### 22.09. - 29.09.2024
+A week off - a short, long-awaited vacation 🤩⛵️🌊
+P.s. But I still continued taking small steps on THM and Duo.
 
 
 #### 20.09.2024
@@ -23,55 +46,70 @@ It was a very interesting event, with many practical examples. But it was not al
 
 Later that day I also joined workshop called [Shakuj Kubernetesa](https://www.youtube.com/live/OGPYp9Nf-qI). Of course it was ethical hacking and most important in it was how to secure app better.
 
+
 #### 15.09.2024
 Hooray!🎉🥳
 Yesterday was 660 days streak of my danish education on DuoLingo aaaand today is 50 day streak on TryHackMe🤓
 
+
 #### 12.09.2024
-* OTWA Office Hours - 7:00PM-8:30PM - we was talking about couple problems from OTWA and about looking for a job in the cyber industry.
+OTWA Office Hours - 7:00PM-8:30PM - we was talking about couple problems from OTWA and about looking for a job in the cyber industry.
+
 
 #### 11.09.2024
-* JakTestowac.pl webinar called: Tester! Start debbuging! was from 8:00PM to ABOUT 9:30PM - Przemek Baranski and Krzyszfor Kijas presented tests in Playwright and TypeScript, and shows automated test debugging strategies. There was interesting cases:
+JakTestowac.pl webinar called: Tester! Start debbuging! was from 8:00PM to ABOUT 9:30PM - Przemek Baranski and Krzyszfor Kijas presented tests in Playwright and TypeScript, and shows automated test debugging strategies. There was interesting cases:
   - hard-to-catch elements,
   - API requests blocking the GUI,
   - asynchronous operations and others.
 This webinar realized to me that automation testing is not as difficult as I thought 😉
 
+
 #### 10.09.2024
-* I took part in partI of Sekurak's meetings about Reverse Engineering which just blow my mind 🤯 I mean, it was so great, that I know I have to learn more and more, and that means: challenge accepted!😎
+I took part in partI of Sekurak's meetings about Reverse Engineering which just blow my mind 🤯 I mean, it was so great, that I know I have to learn more and more, and that means: challenge accepted!😎
+
 
 #### 06.09.2024
-* OTWA Office Hours - 7:00PM-8:30PM 
+OTWA Office Hours - 7:00PM-8:30PM 
+
 
 #### 29.08.2024
-* OTWA Office Hours - 7:00PM-8:30PM Andrzej was aswersing questions about current problems related with course, but not only.  
+OTWA Office Hours - 7:00PM-8:30PM Andrzej was aswersing questions about current problems related with course, but not only.  
+
 
 #### 26.08.2024
-* Yes, and it started! OTWA course - fisrt day and received access to 3 modules of knowledge.
+Yes, and it started! OTWA course - fisrt day and received access to 3 modules of knowledge.
+
 
 #### 17.08.2024
-* Webinar with Andrzej Dyjak about 'How to test web application security?' where, Andrzej convinced me to take part in his course - **OTWA**🙌
+Webinar with Andrzej Dyjak about 'How to test web application security?' where, Andrzej convinced me to take part in his course - **OTWA**🙌
+
 
 #### 03.07.2024
-* Registered on TryHackMe platform to start getting the basics of Cybersecurity. If there are free learning opportunities, why not take advantage of them?😄
+Registered on TryHackMe platform to start getting the basics of Cybersecurity. If there are free learning opportunities, why not take advantage of them?😄
+
 
 #### 28.05.2024
-* Maciej Kofel's webinar called [Hackowanie na ekranie](https://www.youtube.com/watch?v=vC6ijEVhFXY&t=3s) about career in Cybersecurity.  
+Maciej Kofel's webinar called [Hackowanie na ekranie](https://www.youtube.com/watch?v=vC6ijEVhFXY&t=3s) about career in Cybersecurity.  
+
 
 #### 15.05.2024
-* Decided to do my first exploration of the OTWA course - evening webinar with Andrzej Dyjak took 1,5h. 
+Decided to do my first exploration of the OTWA course - evening webinar with Andrzej Dyjak took 1,5h. 
+
 
 #### 05.03.2024
-* I started cooperation 🤝 with HumaCare - first arrangements for cooperation.
+I started cooperation 🤝 with HumaCare - first arrangements for cooperation.
+
 
 #### 03.03.2024
-* Really like to improve my skills, not only in IT - I started to learn how to weld 🕶 with MIG-MAG and MMA techniques. It was not so easy, but I have my first little succes with that.😎
+Really like to improve my skills, not only in IT - I started to learn how to weld 🕶 with MIG-MAG and MMA techniques. It was not so easy, but I have my first little succes with that.😎
+
 
 #### 08.02.2024
-* Passed certification for **ISTQB Certified Tester Foundation Level**.🏆
+Passed certification for **ISTQB Certified Tester Foundation Level**.🏆
+
 
 #### 23/25/27.01 and 01.02.2024
-* 4-day remotly BugHuntFest👾 with 8 presenations - especilly interested in 4th day first presentation - Maciej Kofel's: Pentesting Through the Eyes of a Tester: Facts and Myths. 
+4-day remotly BugHuntFest👾 with 8 presenations - especilly interested in 4th day first presentation - Maciej Kofel's: Pentesting Through the Eyes of a Tester: Facts and Myths. 
 
 #### 27.09.2023
 * I took part in Bartosz Kita's (akademiaqa.pl) webinar about REST API in Postman.
