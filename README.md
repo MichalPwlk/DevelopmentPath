@@ -3,7 +3,7 @@ This is where I post notes on my studies, development progress, participation in
 
 
 
-#### 05.09.2024
+#### 05.10.2024
 Yes!🎉
 
 ![ukonkursu](https://github.com/user-attachments/assets/98fe0b7d-df0d-4f51-a1f6-95ee19b4c438)
