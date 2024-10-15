@@ -2,6 +2,20 @@
 This is where I post notes on my studies, development progress, participation in trainings and courses, etc. Something like a blog, if I may call it like that.😉 Note📃: there aren't many events here yet, but I'll try to complete them soon.
 
 
+#### 13.10.2024
+OTWA's security testing report is ready and has been sent to review. 
+
+
+#### 12.10.2024
+I'm after first chapter of "Security in IT - vol. 1". Read about "Ethics in hacking" written by Gynvael Coldwind. There are lots of great observations and points of view. This is just Mr Gynvael Coldwind - if you know what I mean. 
+
+
+#### 11.10.2024
+Finally home!
+I received my birthday present - two huge books of "Security in IT" with lots of interesting knowledge🤓
+
+![2tomyBezpieczenstwawIT](https://github.com/user-attachments/assets/0baaaa0e-1fd2-4101-899c-1aa8ce5f3e62)
+
 
 #### 05.10.2024
 Yes!🎉
