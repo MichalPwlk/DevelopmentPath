@@ -1,5 +1,60 @@
 # Development Path 👣🚀📚
 This is where I post notes on my studies, development progress, participation in trainings and courses, etc. Something like a blog, if I may call it like that.😉 Note📃: there aren't many events here yet, but I'll try to complete them soon.
+ 
+ 
+ 
+#### 31.10.2024
+Today I made some changes to the action/development plan👨‍💻
+And in the end I turned it upside down🤣
+Some changes in:
+* the order of learning and gaining experience,
+* spreading the material in time in a different way,
+* added time for activities, rest and regeneration,
+* AND working on my own mindset - that I think everybody needs.
+
+
+to the never-ending adventure called DEVELOPMENT!😎👨‍🎓📈
+
+
+#### 29.10.2024
+Workshop of Kubernetes with Damian Naprawa - another great mini workshop where showed how to deploy an application, services or tools in Kubernetes and prepare well for it, as well as how to scale and monitor the deployed application. All on a live organism with practical examples which was really nice experience for me.
+
+
+
+#### 25.10.2024
+And I did! 🥳
+OTWA officially finished 😁 The first report came out well, especially since it was my first in security testing. Here, experience from previous jobs in writing control protocols and paying attention to detail came in very handy.
+
+![OTWAcert](https://github.com/user-attachments/assets/edadff76-c0e4-46d0-929e-79bf5c408c4e)
+
+
+There are also Duo 700 day streak 😁
+
+![Duo700](https://github.com/user-attachments/assets/1c8c846c-fb62-4c94-b82e-f6082f647580)
+
+90 days on THM 😁
+
+![THM90](https://github.com/user-attachments/assets/88ca2f4d-60d4-4097-899c-b9d3da0f66c2)
+
+
+#### 24.10.2024
+[Webinar with Adam Basek](https://www.youtube.com/live/rLOw3WoTnDQ?t=72s) about interviews and preparing to Testing World - in my opinion a nice point of view and some good advice that can improve the whole recruitment process. If someone is interested in that topic there is possibility to join the course [HERE](https://www.wygrajgrewrekrutacje.pl/)
+
+
+#### 23.10.2024
+Mini workshop about WAZUH with XTD presented by Arek Siczek - small preparing before new NIS2 regulations - shows how to install, run server, use this SIEM and its tools, dashboard, how to analize charts, logs and many, many more.   
+https://blog.askomputer.pl/wazuh-jak-go-wykorzystac-do-wykrycia-atakow-na-microsoft-active-directory/
+
+
+#### 22.10.2024
+"Are public WI-FI networks safe?" - Kacper Szurek's webinar - refreshed, and yeah fill in the gaps in my knowledge. 
+![certyfikat small](https://github.com/user-attachments/assets/c2b5760c-87df-431d-a287-8808d08c66da)
+
+
+#### 14.10. - 20.10.2024
+* Correcting OTWA's security testing report,
+* THM and Duolingo still on streak,
+* and tried to fix TV, and I did it, but unfortunately I broke TV matrix during assembly. Well, success or not really 😁 
 
 
 #### 13.10.2024
